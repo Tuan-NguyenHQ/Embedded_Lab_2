@@ -1,0 +1,10 @@
+10:41:09 **** Incremental Build of configuration Debug for project Bai4_I2C_Realtimeclock ****
+make -j16 all 
+arm-none-eabi-size   Bai4_I2C_Realtimeclock.elf 
+   text	   data	    bss	    dec	    hex	filename
+  35912	    916	   2124	  38952	   9828	Bai4_I2C_Realtimeclock.elf
+Finished building: default.size.stdout
+ 
+
+10:41:10 Build Finished. 0 errors, 0 warnings. (took 232ms)
+
